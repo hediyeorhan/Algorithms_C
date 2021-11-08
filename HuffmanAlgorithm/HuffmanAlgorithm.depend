@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1622290082 source:e:\dosyalarým\2021bahar\algoritmalar\huffmanalgorithm\main.cpp
+	<iostream>
+	<string>
+	<queue>
+	<unordered_map>
+	<ctime>
+	<fstream>
+

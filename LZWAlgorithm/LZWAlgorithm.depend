@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1622291476 source:e:\dosyalarým\2021bahar\algoritmalar\lzwalgorithm\main.cpp
+	<iostream>
+	<vector>
+	<ctime>
+	<fstream>
+
